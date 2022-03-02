@@ -3136,7 +3136,7 @@ Improvements
 - [AIRFLOW-1921] Add support for https and user auth (#2879)
 - [AIRFLOW-2770] Read `dags_in_image` config value as a boolean (#4319)
 - [AIRFLOW-3022] Add volume mount to KubernetesExecutorConfig (#3855)
-- [AIRFLOW-2917] Set AIRFLOW__DATABASE__SQL_ALCHEMY_CONN only when needed (#3766)
+- [AIRFLOW-2917] Set AIRFLOW__CORE__SQL_ALCHEMY_CONN only when needed (#3766)
 - [AIRFLOW-2712] Pass annotations to KubernetesExecutorConfig
 - [AIRFLOW-461] Support autodetected schemas in BigQuery run_load (#3880)
 - [AIRFLOW-2997] Support cluster fields in bigquery (#3838)
