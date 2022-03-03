@@ -57,6 +57,7 @@ DEFAULT_AIRFLOW_SECTIONS = [
 
 DEFAULT_TEST_SECTIONS = [
     'core',
+    'database'
     "logging",
     'cli',
     'api',
